@@ -1,2 +1,5 @@
 # hello-world
-a hello world project to start
+
+Hello everyone!
+
+This is my first github project and I hope to learn more :-)
